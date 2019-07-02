@@ -21,4 +21,5 @@ Spatial Domain Homomorphic Filter for Openframeworks using ofxCv
 - FFT based Homomorphic Filtering
 - Realtime WebCam Homomorphic Filtering
 
-
+### Reference
+- Porting of this source: https://stackoverflow.com/questions/23740934/opencv-homomorphic-filter
