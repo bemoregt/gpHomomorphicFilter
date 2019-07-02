@@ -1,5 +1,5 @@
 # ofxHomomorphicF
-Homomorphic Filter C++ implementation for Openframeworks using ofxCv
+Spatial Domain Homomorphic Filter for Openframeworks using ofxCv
 
 ![HMF example]( https://github.com/bemoregt/ofxHomomorphicF/blob/master/ScrShot%2012.png "HMF")
 
