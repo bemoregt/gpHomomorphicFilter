@@ -1,7 +1,9 @@
 # ofxHomomorphicF
 Homomorphic Filter C++ implementation for Openframeworks using ofxCv
 
-![POC example]( https://github.com/bemoregt/ofxHomomorphicF/blob/master/ScrShot%2012.png "POC")
+![HMF example]( https://github.com/bemoregt/ofxHomomorphicF/blob/master/ScrShot%2012.png "HMF")
+
+![HMF example2]( https://github.com/bemoregt/ofxHomomorphicF/blob/master/ScrShot%2013.png "HMF2")
 
 ### How To
 - Move your mouse horizontally to change Alpha param in realtime. 
