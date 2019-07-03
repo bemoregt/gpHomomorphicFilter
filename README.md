@@ -7,8 +7,8 @@ Spatial Domain Homomorphic Filter for Openframeworks using ofxCv
 
 ### Algorithm
 - Homomorphic Filter is a kind of Cepstral Technics of image.
-- Ambient light has Low frequency information. Object light has Higher frequency info. 
-- Logarithmic of Power spectrum is separate two above informations.
+- Ambient light has Low frequency information. But, Object light has Higher frequency info. 
+- Logarithmic of Power spectrum is separate two above informations and Low Stop Filtering.
 
 
 ### How To
